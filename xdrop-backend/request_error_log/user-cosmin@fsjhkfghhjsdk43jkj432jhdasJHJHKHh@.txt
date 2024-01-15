@@ -1,0 +1,1 @@
+# controllers\user.py shill() --- 14/11/2021, 00:53:30--- EXCEPTION: 'paid_discount' --- REQUEST: <Request 'http://localhost:5000/api/shill' [POST]> #

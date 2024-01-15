@@ -1,0 +1,2 @@
+# controllers\user.py login() --- 12/11/2021, 09:45:35--- EXCEPTION: The licence you trying to use has already a session running on our server.
+ You will not be able to use the same sessions on two different devices at the same time. --- REQUEST: <Request 'http://localhost:5000/api/login' [POST]> #

@@ -1,1 +1,1 @@
-# xdrop
+# xdrop is a software used to send messages to Telegram at set intervals
